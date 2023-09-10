@@ -1,0 +1,24 @@
+<svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon-order-box" clip-path="url(#clip0_156_945)">
+<g id="Clip path group">
+<mask id="mask0_156_945" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="25">
+<g id="clip0_178_1036">
+<path id="Vector" d="M24 0.5H0V24.5H24V0.5Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_156_945)">
+<g id="Group">
+<path id="Vector_2" d="M1.00488 8.04022H22.9948V21.2321C22.9948 22.4774 21.9824 23.5 20.727 23.5H3.27272C2.02743 23.5 1.00488 22.4876 1.00488 21.2321V8.04022Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M22.9948 8.04012C22.9138 6.8657 22.3975 5.13445 22.0026 4.06128C21.4458 2.57301 20.0588 1.50996 18.3478 1.50996H5.65192C3.94092 1.49984 2.44253 2.54264 1.99706 4.05115C1.55159 5.13445 1.11625 6.84545 1.00488 8.02999" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M11.9995 1.5V8.04028" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M14.4804 12.2722H9.51953" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_156_945">
+<rect width="24" height="24" fill="white" transform="translate(0 0.5)"/>
+</clipPath>
+</defs>
+</svg>
